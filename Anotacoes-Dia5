@@ -1,0 +1,14 @@
+Serviços de hospedagens para back-end:
+	*heroku 
+		Para testar aplicações pequenas
+	*digitalOcena
+		Aplicações finais, plano barato
+Serviços de hospedagens para front-end:
+	*netlify
+		Para testar aplicações pequenas
+O que estudar agora:
+	*Padrões de codigo
+		EsLint
+		Prettier
+	*Autenticação JWT
+	*styled Components
